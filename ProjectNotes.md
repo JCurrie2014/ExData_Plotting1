@@ -5,7 +5,7 @@ Author: Jerry Currie
 The goal of this exercise is to duplicate for plots (defined in README.md) using R and the R Studio. Electrical
 usage data is provided where we'll read a subset (Feb 1 & 2 2007) of the data to create these plots.
 
-#Pseudo Code for building the charts
+#Pseudo Code for building the charts</br>
 *load libraries
 *Get data
 *Create Plot Labels
